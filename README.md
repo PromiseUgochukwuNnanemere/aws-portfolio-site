@@ -45,6 +45,7 @@ This is my personal portfolio website, built with HTML and CSS and hosted on **A
 
 ├── index.html # Main landing page
 ├── index.css # Styling for the landing page
+├── avatar.png # Profile picture
 └── README.md # This documentation
       
  ...
