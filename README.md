@@ -78,7 +78,7 @@ This is my personal portfolio website, built with HTML and CSS and hosted on **A
 ## 📌 Future Enhancements
 
 - Add CI/CD pipeline with GitHub Actions or CodePipeline
-- Enable CloudFront access logs
+- Enable CloudFront access logs for better observability of S3 and CloudFront
 - Use Route 53 for DNS
 - Convert into a CI/CD pipeline using CodePipeline
 
