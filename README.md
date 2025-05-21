@@ -46,6 +46,8 @@ This is my personal portfolio website, built with HTML and CSS and hosted on **A
 ├── index.html # Main landing page
 ├── index.css # Styling for the landing page
 ├── avatar.png # Profile picture
+├── Static_website_architecture_on_AWS.png # Static Website_Architecture_on_AWS
+├── Static_website_AWS_S3_bucket.png # Static website S3 Bucket
 └── README.md # This documentation
       
  ...
@@ -59,7 +61,7 @@ This is my personal portfolio website, built with HTML and CSS and hosted on **A
 ### 📸 AWS S3 Bucket
 
 
-> ![AWS S3 Bucket](Static_website_AWS_S3_bucket.png)
+> ![Static website S3 Bucket](Static_website_AWS_S3_bucket.png)
 
 ---
 
