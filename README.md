@@ -43,6 +43,29 @@ This is my personal portfolio website, built with HTML and CSS and hosted on **A
 
 ## 📂 Project Architecture
 
+aws-icons-for-plantuml/source
+├── AWSC4Integration.puml
+├── AWSCommon.puml
+├── AWSExperimental.puml
+├── AWSRaw.puml
+├── AWSSimplified.puml
+└── official
+  ├── Architecture-Service-Icons_06072024
+  │   ├── Arch_Analytics
+  │   ├── Arch_App-Integration
+  │   ├── Arch_Blockchain
+      ...
+  ├── Category-Icons_06072024
+  │   ├── Arch-Category_16
+  │   ├── Arch-Category_32
+  │   ├── Arch-Category_48
+  │   └── Arch-Category_64
+  └── Resource-Icons_06072024
+      ├── Res_Analytics
+      ├── Res_Application-Integration
+      ├── Res_Blockchain
+      ...
+
 ![Static Website_Architecture_on_AWS](Static_website_architecture_on_AWS.png)
 
 ---
