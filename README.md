@@ -42,15 +42,21 @@ This is my personal portfolio website, built with HTML and CSS and hosted on **A
 ---
 
 ## 📂 Project Architecture
+
 ![Static Website_Architecture_on_AWS](Static_website_architecture_on_AWS.png)
 
 ---
 
-## 📸 Screenshots
+## 📸 AWS S3 Bucket
 
-> ![Static Website_Architecture_on_AWS](Static_website_architecture_on_AWS.png)
-> ![CloudFront Distribution](CloudFront_Distribution.png)
+
 > ![AWS S3 Bucket](Static_website_AWS_S3_bucket.png)
+
+---
+
+## 📸 CloudFront Distribution
+
+> ![CloudFront Distribution](CloudFront_Distribution.png)
 
 ---
 
