@@ -41,18 +41,14 @@ This is my personal portfolio website, built with HTML and CSS and hosted on **A
 
 ---
 
-## 📂 Project Structure
-
-├── index.html # Main landing page
-├── index.css # Styling for the landing page
-├── avartar.png # Profile picture
-└── README.md # This documentation
+## 📂 Project Architecture
+![Static Website_Architecture_on_AWS](Static_website_architecture_on_AWS.png)
 
 ---
 
 ## 📸 Screenshots
 
-> ![Static Website_Architecture_on_AWS](Static_website_architecture_on_AWS)
+> ![Static Website_Architecture_on_AWS](Static_website_architecture_on_AWS.png)
 > ![CloudFront Distribution](CloudFront_Distribution.png)
 > ![AWS S3 Bucket](Static_website_AWS_S3_bucket.png)
 
