@@ -52,7 +52,7 @@ This is my personal portfolio website, built with HTML and CSS and hosted on **A
       
  ...
 
-### Project Architecture
+## Project Architecture
 
 ![Static Website_Architecture_on_AWS](Static_website_architecture_on_AWS.png)
 
