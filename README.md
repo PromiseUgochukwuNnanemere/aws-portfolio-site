@@ -83,6 +83,7 @@ This is my personal portfolio website, built with HTML and CSS and hosted on **A
 - Using CloudFront as a global CDN with SSL
 - Setting up custom domains via third-party registrars (Namecheap)
 - Enforcing security using CloudFront Origin Access Control
+- Invalidating the CloudFront Cache to serve the latest files from S3
 
 ---
 
